@@ -1,0 +1,27 @@
+# Entornos virtuales y Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter / Colab / VS Code
+.ipynb_checkpoints/
+.vscode/
+
+# Credenciales y variables de entorno
+.env
+*.env
+
+# Datos pesados o temporales (si guardás CSV/Parquet/DB locales)
+data/raw/
+data/processed/
+*.parquet
+*.db
+*.sqlite3
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
