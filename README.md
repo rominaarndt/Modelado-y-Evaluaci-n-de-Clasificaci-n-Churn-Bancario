@@ -20,7 +20,7 @@ Desde la perspectiva del negocio, identificar de forma anticipada a los clientes
 # En Windows (PowerShell):
 .\.venv\Scripts\Activate.ps1
    git clone <URLhttps://github.com/rominaarndt/Modelado-y-Evaluaci-n-de-Clasificaci-n-Churn-Bancario-DEL-REPOSITORIO>
-   cd <Modelado-y-Evaluaci-n-de-Clasificaci-n-Churn-Bancario>
+   cd <modelado_metricas.ipynb>
 
    Instalar las dependencias necesarias:
    
